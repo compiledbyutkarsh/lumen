@@ -129,5 +129,5 @@ This is the same architecture used by CPython, Lua 5.x, and early Ruby MRI.
 ---
 
 <div align="center">
-<sub>Made with 🔆 by compiledbyutkarsh</sub>
+<sub>Made with 🔆 by <a href="https://github.com/compiledbyutkarsh">compiledbyutkarsh</a></sub>
 </div>
