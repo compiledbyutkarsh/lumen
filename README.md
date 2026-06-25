@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Lumen
+# 🔆 Lumen
 
 **A bytecode compiler and stack-based virtual machine — built from scratch in Rust.**
 
@@ -129,5 +129,5 @@ This is the same architecture used by CPython, Lua 5.x, and early Ruby MRI.
 ---
 
 <div align="center">
-<sub>Built with Rust — no external crates, no shortcuts.</sub>
+<sub>Made with 🔆 by compiledbyutkarsh</sub>
 </div>
